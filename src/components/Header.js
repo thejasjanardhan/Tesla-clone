@@ -63,6 +63,9 @@ function Header() {
         <li>
           <a href="#">PowerWall</a>
         </li>
+        <li>
+          <a href="#">Commercial Energy</a>
+        </li>
       </BurgerNav>
     </Container>
   );
